@@ -1,6 +1,18 @@
+```text
+        _.-~~~-._   .-~
+  _.-~)  .'       .'
+ /  __  /  /  _.-~ ~-._
+|  /  \/  /.-~       ~-. 
+| (    _  /  GITHUB DOCS  |
+ \  \_/ \/              /
+  ~-._  ~-..-~-.______-
+      ~-._     _.-~
+          ~~~~~
+```
+
 # GitHub Docs <!-- omit in toc -->
 
-Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone from inside or outside the company can contribute. For full contributing guidelines, visit our [contributing guide](https://docs.github.com/en/contributing).
+Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone from inside or outside the company can contribute. For full contributing guidelines, visit our [contributing guide](https://github.com/github/docs/blob/main/.github/CONTRIBUTING.md).
 
 
 ## Quick links by contributor type
@@ -17,18 +29,18 @@ There are two GitHub Docs repositories:
 
 - **`github/docs-internal`** (private): For GitHub employee contributions. 
 
-The two repositories sync frequently. Content changes in one are reflected in the other.  Hubbers might prefer to post in `docs` when working with a customer, but `docs` has limitations on the types of contributions it accepts to safeguard the site and our workflows. Internal contributions should usually go to `docs-internal`.
+The two repositories sync frequently. Content changes in one are reflected in the other.  Hubbers might prefer to post in `docs` when working with a customer, but `docs` has limitations on the types of contributions we accept. For example, we don’t accept contributions to the content of articles or to the data used to build the site.
 
-**Important:** The `docs` repository accepts contributions to content files (`.md` files in `/content` and select `/data` sections like reusables only). Infrastructure files, workflows, and site-building code are not open for external modification.
+**Important:** The `docs` repository accepts contributions to content files (`.md` files in `/content` and select `/data` sections like reusables only). Infrastructure files, workflows, and site-building code belong in `docs-internal`.
 
 ## New to contributing
 
 Here are some resources to help you get started with open source contributions:
 
 * [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
-* [Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
+* [Set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
-* [How we use pull requests on Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs#pull-requests)
+* [How we use pull requests on GitHub Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs#pull-requests)
 
 ## License
 
